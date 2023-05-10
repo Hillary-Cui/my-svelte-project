@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "svelte-app",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
